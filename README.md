@@ -9,5 +9,5 @@ GoogleVR app designed for Google Cardboard based on Simon Says where a pattern i
 and the user is then tasked with repeating that 
 pattern by clicking on the same orbs in the same sequence.
 
-I spent roughly 24 hours working on this project.
+I spent roughly 24 hours working on this project. Default 3d assets were provided by the Udacity course.
 
